@@ -1,4 +1,4 @@
-# SkillSwap_Project
+# SkillSwap
 
 ## Project Overview
 
